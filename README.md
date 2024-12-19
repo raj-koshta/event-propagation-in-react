@@ -19,7 +19,7 @@ Controlling event flow for nested components.
 Leveraging event phases for specific component behaviors.
 
 📥 GitHub Repository with Examples:
-I’ve implemented and shared examples demonstrating event propagation and its practical applications. Check them out here: GitHub Link.
+I’ve implemented and shared examples demonstrating event propagation and its practical applications. Check them out here: GitHub Link. 
 
 🔍 Key Takeaways from Today:
 --> Event propagation provides control over how events are handled in complex UI structures.
